@@ -20,18 +20,37 @@ Số LFSR         	Chiều dài tính bằng bit       	Đa thức phản hồi	
 
    
 III, Hướng Dẫn Sử Dụng 
-
+ SP A5/1 text 
+ 
 <img width="1170" height="667" alt="image" src="https://github.com/user-attachments/assets/68044166-c57c-4a38-a057-f12a04df7580" />
-SP A5/1 text 
-user 1 sẽ nhập văn bản cần mã hóa vào ô text <img width="308" height="429" alt="image" src="https://github.com/user-attachments/assets/4ab1a4b8-7c90-4c55-ad52-df8126d93306" />
+
+user 1 sẽ nhập văn bản cần mã hóa vào ô text 
+
+<img width="308" height="429" alt="image" src="https://github.com/user-attachments/assets/4ab1a4b8-7c90-4c55-ad52-df8126d93306" />
+
 sau khi nhập xong thì sẽ nhập key tùy chọn là 1 dãy số tùy ý, hoặc 1 văn bản tùy ý người dùng.
-tiếp đến là nhập Frame với frame là 1 số hex bất kì. Có thể dùng nút GenerateKey để tạo Frame bất kì <img width="144" height="55" alt="image" src="https://github.com/user-attachments/assets/1d7f8ef0-d883-4a0a-ae6a-24b1f0b0bd51" />
+tiếp đến là nhập Frame với frame là 1 số hex bất kì. Có thể dùng nút GenerateKey để tạo Frame bất kì
+
+<img width="144" height="55" alt="image" src="https://github.com/user-attachments/assets/1d7f8ef0-d883-4a0a-ae6a-24b1f0b0bd51" />
+
 Rồi mã hóa Văn bản cho User 2 giải mã 
+
 // Lưu ý Frame và Key Ko đc thay đổi khi mã hoặc giải mã!!!
+
 Sp A5/1 File-Pic
-Trước hết người dùng nhập Key và Frame như ở SP A5/1 text <img width="314" height="339" alt="image" src="https://github.com/user-attachments/assets/133b8654-37c0-4e33-980d-dd09de6910f4" />
-Sau đó nhấn Encrypt hoặc Decrypt để mã hóa hoặc giải mã 1 file hoặc văn bản tùy chọn <img width="761" height="427" alt="image" src="https://github.com/user-attachments/assets/faa1bd8b-8f22-4e60-80d8-25926cdcf902" />
-sau khi chọn được file, văn bản tùy chọn thì sẽ chọn vị trí lưu sau khi chọn file, văn bản mã hóa <img width="592" height="415" alt="image" src="https://github.com/user-attachments/assets/c0f8d2b4-fc69-406f-8b29-4627f128efc3" />
+
+Trước hết người dùng nhập Key và Frame như ở SP A5/1 text
+
+<img width="314" height="339" alt="image" src="https://github.com/user-attachments/assets/133b8654-37c0-4e33-980d-dd09de6910f4" />
+
+Sau đó nhấn Encrypt hoặc Decrypt để mã hóa hoặc giải mã 1 file hoặc văn bản tùy chọn
+
+<img width="761" height="427" alt="image" src="https://github.com/user-attachments/assets/faa1bd8b-8f22-4e60-80d8-25926cdcf902" />
+
+sau khi chọn được file, văn bản tùy chọn thì sẽ chọn vị trí lưu sau khi chọn file, văn bản mã hóa
+
+<img width="592" height="415" alt="image" src="https://github.com/user-attachments/assets/c0f8d2b4-fc69-406f-8b29-4627f128efc3" />
+
 giải mã tương tự!
 
 
